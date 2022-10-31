@@ -1,0 +1,10 @@
+{
+  "name": "ministry_of_sports",
+  "short_name": "ministry_of_sports",
+  "description": "O‘zbekiston Respublikasi sportni rivojlantirish vazirligi rasmiy portali",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "oz"
+}
